@@ -17,3 +17,8 @@ git status
 git commit -m "docs: ...."
 git push origin main 
 
+#Crear Ramas
+git checkout -b "name"
+git branch
+
+
