@@ -3,6 +3,8 @@ Alfredo Namigtle
 Instituto Nacional de Astrofisica, Optica y Electronica
 
 # Commands
+```bash
+
 git status
 git add .
 git status
@@ -13,5 +15,5 @@ Ajusta una sola vez
 
 ```bash
 
-# git config --global user.name "namigtle"
-# git config --global user.email "alfredo.namigtle@gmail.com"
+git config --global user.name "namigtle"
+git config --global user.email "alfredo.namigtle@gmail.com"
